@@ -1,0 +1,5 @@
+Flask==2.0.2
+pyngrok==5.1.0
+flask-socketio==5.1.1
+textblob==0.15.3
+openai==0.10.0
